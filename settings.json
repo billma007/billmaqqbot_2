@@ -1,0 +1,22 @@
+{
+    "type": "http",
+    "listen": 3000,
+    "send": 7654,
+    "ip": "127.0.0.1",
+    "group": [
+        "784506492",
+        "23456"
+    ],
+    "private": [
+        "all"
+    ],
+    "superadmin": [
+        "123456",
+        "123456"
+    ],
+    "workers": 4 ,
+    "deepseek":{
+        "enabled": true,
+        "api_key": "sk-fa86766843444147a3c656ee2531091e"
+    }
+}
